@@ -1,10 +1,16 @@
 <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
 - 👋 Hi, I’m @neelkhot7
+
 - 👀 I’m interested in web development with computer vision.
+- 
 - 🌱 I’m currently learning about various web development frameworks and computer vision algorithms.
+- 
 - 💞️ I’m looking to collaborate on projects related to web development or computer vision applications.
+- 
 - 📫 How to reach me: You can reach me via email at neelkhot@outlook.com or connect with me on LinkedIn (https://www.linkedin.com/in/neelkhot7904/)
+- 
 - 😄 Pronouns: He/him
+- 
 - ⚡ Fun fact: I enjoy experimenting with new technologies and finding creative solutions to problems!
 
 <h3 align="left">Social Links:</h3>
