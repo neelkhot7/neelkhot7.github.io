@@ -73,8 +73,8 @@ const HeroSection = () => {
             </p>
 
             <div className="text-sm text-muted-foreground space-y-1">
-              <p>Third Year @ Fr. Conceicao Rodrigues College of Engineering, Bandra</p>
-              <p>Specializing in Cybersecurity, AI/ML, IoT & Embedded Systems</p>
+              <p>Final Year @ Fr. Conceicao Rodrigues College of Engineering, Bandra</p>
+              <p>Specializing in Cybersecurity, AI/ML, & IoT</p>
             </div>
           </div>
 
@@ -117,6 +117,8 @@ const HeroSection = () => {
       </div>
 
       {/* Scroll Indicator */}
+      <br>
+      </br>
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-20">
         <div className="w-6 h-10 border-2 border-secondary rounded-full flex justify-center">
           <div className="w-1 h-3 bg-secondary rounded-full mt-2 animate-bounce" />
