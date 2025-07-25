@@ -166,11 +166,6 @@ const AboutSection = () => {
                   <p>Computer Engineering • Final Year</p>
                   <p>Bandra, Mumbai</p>
                 </div>
-                
-                <Button variant="ai" size="lg" className="w-full">
-                  <Users className="w-5 h-5" />
-                  Schedule a Conversation
-                </Button>
               </div>
             </div>
           </div>
