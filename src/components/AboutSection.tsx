@@ -15,12 +15,6 @@ const skills = [
     items: ["Computer Vision", "Facial Recognition", "Machine Learning", "Neural Networks"]
   },
   {
-    category: "IoT & Embedded",
-    icon: Cog,
-    color: "from-green-500 to-teal-600",
-    items: ["Arduino", "Sensor Integration", "Real-time Systems", "Smart Devices"]
-  },
-  {
     category: "Development",
     icon: Zap,
     color: "from-yellow-500 to-orange-600",
@@ -34,12 +28,6 @@ const achievements = [
     description: "Revolutionary secure browser-based OS with biometric authentication",
     icon: Shield,
     year: "2024"
-  },
-  {
-    title: "UDYAMOTSAV-2025 National Round",
-    description: "Trixis Energy project shortlisted for national pitching competition",
-    icon: Award,
-    year: "2025"
   },
   {
     title: "RBI FinTech Department Demo",
@@ -65,7 +53,7 @@ const AboutSection = () => {
             </span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            I'm a third-year Computer Engineering student passionate about creating secure, AI-powered solutions that solve real-world problems. From cybersecurity to IoT, I bridge the gap between cutting-edge research and practical applications.
+            I'm a final-year Computer Engineering student passionate about creating secure, AI-powered solutions that solve real-world problems. From cybersecurity to IoT, I bridge the gap between cutting-edge research and practical applications.
           </p>
         </div>
 
@@ -169,7 +157,7 @@ const AboutSection = () => {
               <div className="space-y-4">
                 <div className="text-sm text-muted-foreground">
                   <p className="font-medium">Fr. Conceicao Rodrigues College of Engineering</p>
-                  <p>Computer Engineering • Third Year</p>
+                  <p>Computer Engineering • Final Year</p>
                   <p>Bandra, Mumbai</p>
                 </div>
                 
