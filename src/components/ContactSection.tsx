@@ -72,7 +72,7 @@ const ContactSection = () => {
                 <h4 className="font-semibold text-foreground mb-4">Connect on Social</h4>
                 <div className="flex gap-4">
                   <a 
-                    href="https://github.com/neelkhot" 
+                    href="https://github.com/neelkhot7" 
                     className="w-12 h-12 glass-card rounded-full flex items-center justify-center hover-glow group"
                   >
                     <Github className="w-6 h-6 text-muted-foreground group-hover:text-secondary transition-colors" />
@@ -162,17 +162,6 @@ const ContactSection = () => {
                   Send Message
                 </Button>
               </form>
-
-              {/* Response Time */}
-              <div className="mt-6 p-4 glass-card rounded-lg">
-                <div className="flex items-center gap-3">
-                  <div className="w-3 h-3 bg-accent rounded-full animate-pulse" />
-                  <p className="text-sm text-muted-foreground">
-                    I typically respond within <span className="text-accent font-medium">24 hours</span>
-                  </p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
 
