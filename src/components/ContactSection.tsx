@@ -70,7 +70,7 @@ const ContactSection = () => {
               {/* Social Links */}
               <div className="mt-8 pt-6 border-t border-white/10">
                 <h4 className="font-semibold text-foreground mb-4">Connect on Social</h4>
-                <div className="flex gap-5">
+                <div className="flex gap-6">
                   <a 
                     href="https://github.com/neelkhot7" 
                     className="w-12 h-12 glass-card rounded-full flex items-center justify-center hover-glow group"
