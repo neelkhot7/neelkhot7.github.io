@@ -86,28 +86,6 @@ const ContactSection = () => {
                 </div>
               </div>
             </div>
-
-            {/* Quick Actions */}
-            <div className="glass-card p-8 rounded-2xl">
-              <h3 className="text-xl font-bold mb-6 text-foreground">Quick Actions</h3>
-              
-              <div className="space-y-4">
-                <Button variant="ai" size="lg" className="w-full justify-start">
-                  <MessageCircle className="w-5 h-5" />
-                  Ask AI About Me
-                </Button>
-                
-                <Button variant="glass" size="lg" className="w-full justify-start">
-                  <Calendar className="w-5 h-5" />
-                  Schedule a Meeting
-                </Button>
-                
-                <Button variant="glow" size="lg" className="w-full justify-start">
-                  <Github className="w-5 h-5" />
-                  View GitHub Portfolio
-                </Button>
-              </div>
-            </div>
           </div>
 
           {/* Contact Form */}
