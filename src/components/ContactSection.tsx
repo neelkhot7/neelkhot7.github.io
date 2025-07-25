@@ -128,7 +128,7 @@ const ContactSection = () => {
                 <div>
                   <label className="block text-sm font-medium text-foreground mb-2">Message</label>
                   <textarea
-                    rows={3}
+                    rows={4}
                     placeholder="Tell me about your project, opportunity, or just say hello!"
                     className="w-full px-4 py-3 glass-card rounded-lg bg-transparent border-white/20 focus:border-secondary focus:outline-none text-foreground placeholder-muted-foreground resize-none"
                   />
