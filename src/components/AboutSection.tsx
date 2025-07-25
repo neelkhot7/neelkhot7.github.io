@@ -27,14 +27,20 @@ const achievements = [
     title: "Co-founder of NetFortress",
     description: "Revolutionary secure browser-based OS with biometric authentication",
     icon: Shield,
-    year: "2024"
+    year: "2025"
   },
   {
     title: "RBI FinTech Department Demo",
     description: "Showcased authentication system to Reserve Bank of India",
     icon: Users,
-    year: "2024"
-  }
+    year: "2025"
+  },
+  {
+    title: "Best Innovative Solution Award",
+    description: "Awarded as the Best Innovative Solution Award by Fr. Conceicao Rodrigues College of Engineering",
+    icon: Award,
+    year: "2025"
+  },
 ];
 
 const AboutSection = () => {
