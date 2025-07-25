@@ -106,7 +106,7 @@ const HeroSection = () => {
             </a>
             <a href="https://github.com/neelkhot" className="flex items-center gap-2 hover:text-secondary transition-colors">
               <Github className="w-4 h-4" />
-              neelkhot
+              neelkhot7
             </a>
             <a href="https://linkedin.com/in/neelkhot" className="flex items-center gap-2 hover:text-secondary transition-colors">
               <Linkedin className="w-4 h-4" />
@@ -116,12 +116,12 @@ const HeroSection = () => {
         </div>
       </div>
 
-      {/* Scroll Indicator */}
+{/*       {/* Scroll Indicator */}
       <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 z-20">
         <div className="w-6 h-10 border-2 border-secondary rounded-full flex justify-center">
           <div className="w-1 h-3 bg-secondary rounded-full mt-2 animate-bounce" />
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };
