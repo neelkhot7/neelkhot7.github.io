@@ -164,6 +164,7 @@ const ContactSection = () => {
               </form>
           </div>
         </div>
+        </div>
 
         {/* Bottom CTA */}
         <div className="text-center mt-16 animate-fade-in-up" style={{animationDelay: '0.6s'}}>
