@@ -54,19 +54,19 @@ const AIChatbot = () => {
     }
     
     if (q.includes("projects")) {
-      return "Neel has some amazing projects! 🎯\n\n🛡️ NetFortress - Secure Web OS\n⚡ Trixis Energy - IoT Wind Turbine (National Round shortlisted!)\n🗺️ ClearPath - Smart traffic & water management\n👥 SmartMall CRM - AI-powered customer recognition\n\nEach project showcases his ability to apply cutting-edge tech to solve real problems!";
+      return "Neel has some amazing projects! 🎯\n\n🛡️ NetFortress - Secure Web OS\n⚡ Trixis Energy - IoT Wind Turbine (National Round shortlisted!)\n🗺️ ClearPath\n👥 SmartMall CRM \nEach project showcases his ability to apply cutting-edge tech to solve real problems!";
     }
     
     if (q.includes("ai") || q.includes("ml") || q.includes("machine learning")) {
-      return "Neel is deeply passionate about AI/ML! 🧠 He's implemented:\n• Computer Vision for facial recognition in NetFortress\n• Customer analytics & recognition in SmartMall CRM\n• AI-powered routing algorithms in ClearPath\n\nHe's always exploring the latest in AI to build smarter, more intuitive systems.";
+      return "Neel is deeply passionate about AI/ML! 🧠 He's implemented:\n• Computer Vision for facial recognition in NetFortress\n• SmartMall CRM\n• ClearPath\n\nHe's always exploring the latest in AI to build smarter, more intuitive systems.";
     }
     
     if (q.includes("contact") || q.includes("reach")) {
-      return "Ready to connect with Neel? 📧\n\n📧 Email: neelkhot@outlook.com\n📱 Phone: +91 7158072136\n💻 GitHub: github.com/neelkhot\n💼 LinkedIn: linkedin.com/in/neelkhot\n\nHe's always excited to discuss new opportunities and collaborations!";
+      return "Ready to connect with Neel? 📧\n\n📧 Email: neelkhot@outlook.com\n📱 Phone: +91 7158072136\n💻 GitHub: github.com/neelkhot7\n💼 LinkedIn: linkedin.com/in/neelkhot\n\nHe's always excited to discuss new opportunities and collaborations!";
     }
     
     if (q.includes("education") || q.includes("college")) {
-      return "Neel is currently a Third Year Computer Engineering student at Fr. Conceicao Rodrigues College of Engineering in Bandra! 🎓 He's been applying his classroom knowledge to real-world projects and startups, bridging the gap between theory and practice.";
+      return "Neel is currently a Final Year Computer Engineering student at Fr. Conceicao Rodrigues College of Engineering in Bandra! 🎓 He's been applying his classroom knowledge to real-world projects and startups, bridging the gap between theory and practice.";
     }
     
     return "That's a great question! 🤔 I'm trained on Neel's portfolio data, but I might not have all the details you're looking for. Feel free to reach out to Neel directly at neelkhot@outlook.com for more specific information, or try asking about his projects, skills, or experiences!";
